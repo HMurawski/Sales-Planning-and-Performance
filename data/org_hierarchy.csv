@@ -1,0 +1,11 @@
+country_id,country_manager_id,area_id,area_manager_id,area_name,aob_band,salesperson_id,city,tenure_years
+PL,CM_PL_001,PL_S,AM_S_001,South,HIGH,SP_WAW_001,Warsaw,8
+PL,CM_PL_001,PL_S,AM_S_001,South,HIGH,SP_KRK_001,Krakow,14
+PL,CM_PL_001,PL_S,AM_S_001,South,HIGH,SP_WRO_001,Wroclaw,11
+PL,CM_PL_001,PL_S,AM_S_001,South,MED,SP_LOD_001,Lodz,2
+PL,CM_PL_001,PL_N,AM_N_001,North,MED,SP_POZ_001,Poznan,8
+PL,CM_PL_001,PL_N,AM_N_001,North,MED,SP_GDA_001,Gdansk,14
+PL,CM_PL_001,PL_N,AM_N_001,North,LOW,SP_SZC_001,Szczecin,6
+PL,CM_PL_001,PL_S,AM_S_001,South,LOW,SP_LBL_001,Lublin,15
+PL,CM_PL_001,PL_N,AM_N_001,North,LOW,SP_BYD_001,Bydgoszcz,4
+PL,CM_PL_001,PL_N,AM_N_001,North,LOW,SP_BIA_001,Bialystok,13

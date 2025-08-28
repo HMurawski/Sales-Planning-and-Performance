@@ -1,0 +1,2 @@
+ws_threshold_mom,healthy_prev3_threshold,healthy_window_months,p_sales_driven_tier5,p_sales_driven_tier3,p_sales_driven_tier1,treat_new_as_sales_driven_first_month
+0.10,0.95,3,0.80,0.65,0.50,1
